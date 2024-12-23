@@ -1,0 +1,11 @@
+{
+    "elytra_chestplate.resourcepack.check":"§2[✔ 资源包已载入 | v2.1 | 早安豆江制作]",
+    "elytra_chestplate.resourcepack.download":"↓ 下载资源包",
+    "elytra_chestplate.name":"鞘翅胸甲",
+    "item.elytra_chestplate.elytra_chainmail_chestplate":"%1$s%2$s",
+    "item.elytra_chestplate.elytra_diamond_chestplate":"%1$s%2$s",
+    "item.elytra_chestplate.elytra_golden_chestplate":"%1$s%2$s",
+    "item.elytra_chestplate.elytra_iron_chestplate":"%1$s%2$s",
+    "item.elytra_chestplate.elytra_leather_chestplate":"%1$s%2$s",
+    "item.elytra_chestplate.elytra_netherite_chestplate":"%1$s%2$s"
+}

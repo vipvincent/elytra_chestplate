@@ -1,0 +1,15 @@
+{
+    "type": "smithing_transform",
+    "base": "leather_chestplate",
+    "addition": "elytra",
+    "result": {
+        "id": "leather_chestplate",
+        "components": {
+            "glider": {},
+            "equippable":{"slot": "chest","model": "elytra_chestplate:elytra_leather_chestplate"},
+            "item_model":"elytra_chestplate:elytra_leather_chestplate",
+            "rarity": "epic",
+            "item_name": "[{\"translate\":\"item.elytra_chestplate.elytra_leather_chestplate\",\"fallback\":\"%1$s %2$s\",\"with\":[{\"translate\":\"item.minecraft.elytra\"},{\"translate\":\"item.minecraft.leather_chestplate\"}]}]"
+        }
+    }
+}

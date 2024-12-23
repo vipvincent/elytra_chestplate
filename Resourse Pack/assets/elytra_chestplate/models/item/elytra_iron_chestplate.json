@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "elytra_chestplate:item/elytra_iron_chestplate"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "smithing_transform",
+    "base": "iron_chestplate",
+    "addition": "elytra",
+    "result": {
+        "id": "iron_chestplate",
+        "components": {
+            "glider": {},
+            "equippable":{"slot": "chest","model": "elytra_chestplate:elytra_iron_chestplate"},
+            "item_model":"elytra_chestplate:elytra_iron_chestplate",
+            "rarity": "epic",
+            "item_name": "[{\"translate\":\"item.elytra_chestplate.elytra_iron_chestplate\",\"fallback\":\"%1$s %2$s\",\"with\":[{\"translate\":\"item.minecraft.elytra\"},{\"translate\":\"item.minecraft.iron_chestplate\"}]}]"
+        }
+    }
+}

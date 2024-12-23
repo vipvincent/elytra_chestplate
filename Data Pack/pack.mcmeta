@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "pack_format": 61,
+        "supported_formats": {"min_inclusive":57,"max_inclusive":61},
+        "description": [{"translate": "elytra_chestplate.name","fallback": "Elytra Chestplate 鞘翅胸甲","color": "yellow"}," §r§6v2.1\n§r§dMade By vipvincent"]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "1.21.2-1.21.3",
+                "formats": {"min_inclusive": 57,"max_inclusive": 57}
+            }
+        ]
+    }
+}
