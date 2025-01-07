@@ -1,0 +1,1 @@
+function elytra_chestplate:netherite

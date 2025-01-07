@@ -1,4 +1,5 @@
 [Modrinth](https://modrinth.com/datapack/elytra_chestplate) | 
+[CurseForge](https://www.curseforge.com/minecraft/data-packs/elytra-chestplate) | 
 [GitHub](https://github.com/vipvincent/elytra_chestplate) | 
 [Docs](https://vipvincent.github.io/docs/en/elytra_chestplate) | 
 [Discord](https://discord.gg/3BKAydVfDk) 
@@ -27,10 +28,18 @@ The existing enchantments, durability, and naming of the breastplate will be ret
 
 > v2.0 or above, all players need to install resource packs or mods
 
-● [Data Pack/Resource Pack](https://modrinth.com/datapack/elytra_chestplate/versions?l=datapack)  
-● [Mod(Fabric/Forge/NeoForge/Quilt)](https://modrinth.com/datapack/elytra_chestplate/versions?l=fabric&l=forge&l=neoforge&l=quilt)
+### Modrinth
+
+- [Data Pack/Resource Pack](https://modrinth.com/datapack/elytra_chestplate/versions?l=datapack)  
+- [Mod(Fabric/Forge/NeoForge/Quilt)](https://modrinth.com/datapack/elytra_chestplate/versions?l=fabric&l=forge&l=neoforge&l=quilt)
 
 ![modrinth dp/rp](https://cdn.modrinth.com/data/Luk2wi3b/images/9f03bdf1ef5686da6c71c271f2b7fc96cf96ba9c.png)
+
+### CurseForge
+
+- [Data Pack/Resource pack](https://www.curseforge.com/minecraft/data-packs/elytra-chestplate/files/)
+
+![curseforge dp/rp](https://media.forgecdn.net/attachments/1058/821/curseforge-dp-rp.png)
 
 ## Update to v2.0?
 
@@ -63,10 +72,18 @@ The existing enchantments, durability, and naming of the breastplate will be ret
 
 > **v2.0以上版本，所有玩家皆需要安裝資源包或模組**
 
-● [資料包/資源包](https://modrinth.com/datapack/elytra_chestplate/versions?l=datapack)  
-● [模組(Fabric/Forge/NeoForge/Quilt)](https://modrinth.com/datapack/elytra_chestplate/versions?l=fabric&l=forge&l=neoforge&l=quilt)
+### Modrinth
+
+- [資料包/資源包](https://modrinth.com/datapack/elytra_chestplate/versions?l=datapack)  
+- [模組(Fabric/Forge/NeoForge/Quilt)](https://modrinth.com/datapack/elytra_chestplate/versions?l=fabric&l=forge&l=neoforge&l=quilt)
 
 ![modrinth dp/rp](https://cdn.modrinth.com/data/Luk2wi3b/images/9f03bdf1ef5686da6c71c271f2b7fc96cf96ba9c.png)
+
+### CurseForge
+
+- [資料包/資源包](https://www.curseforge.com/minecraft/data-packs/elytra-chestplate/files/) 
+
+![curseforge dp/rp](https://media.forgecdn.net/attachments/1058/821/curseforge-dp-rp.png)
 
 ## 更新到v2.0？
 
