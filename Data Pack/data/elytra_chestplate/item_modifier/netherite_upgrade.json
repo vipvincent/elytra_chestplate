@@ -1,9 +1,10 @@
-{
-    "type": "smithing_transform",
-    "base": "netherite_chestplate",
-    "addition": "elytra",
-    "result": {
-        "id": "netherite_chestplate",
+[
+    {
+        "function": "set_item",
+        "item": "minecraft:netherite_chestplate"
+    },
+    {
+        "function": "set_components",
         "components": {
             "glider": {},
             "equippable":{"slot": "chest","asset_id": "elytra_chestplate:elytra_netherite_chestplate"},
@@ -12,4 +13,4 @@
             "item_name": [{"translate":"item.elytra_chestplate.elytra_netherite_chestplate","fallback":"%1$s %2$s","with":[{"translate":"item.minecraft.elytra"},{"translate":"item.minecraft.netherite_chestplate"}]}]
         }
     }
-}
+]

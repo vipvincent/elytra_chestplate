@@ -1,14 +1,24 @@
 {
     "pack": {
-        "pack_format": 61,
-        "supported_formats": {"min_inclusive":57,"max_inclusive":61},
-        "description": [{"translate": "elytra_chestplate.name","fallback": "Elytra Chestplate 鞘翅胸甲","color": "yellow"}," §r§6v2.2\n§r§dMade By vipvincent"]
+        "pack_format": 71,
+        "supported_formats": {"min_inclusive":57,"max_inclusive":71},
+        "description": [{"translate": "elytra_chestplate.name","fallback": "Elytra Chestplate 鞘翅胸甲","color": "yellow"}," §r§6v2.3§r\n§bMade By vipvincent"]
     },
     "overlays": {
         "entries": [
             {
-                "directory": "1.21.2-1.21.3",
-                "formats": {"min_inclusive": 57,"max_inclusive": 57}
+                "directory": "overlay_61",
+                "formats": {
+                    "min_inclusive": 61,
+                    "max_inclusive": 61
+                }
+            },
+            {
+                "directory": "overlay_57",
+                "formats": {
+                    "min_inclusive": 57,
+                    "max_inclusive": 57
+                }
             }
         ]
     }

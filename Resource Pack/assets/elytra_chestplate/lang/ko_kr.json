@@ -1,0 +1,11 @@
+{
+    "elytra_chestplate.resourcepack.check":"§2[✔ 고객리소스 팩/모듈이 로드되었습니다 | 버전：v2.3]",
+    "elytra_chestplate.resourcepack.download":"↓ 리소스팩 다운로드",
+    "elytra_chestplate.name":"겉날개 흉갑",
+    "item.elytra_chestplate.elytra_chainmail_chestplate":"%1$s %2$s",
+    "item.elytra_chestplate.elytra_diamond_chestplate":"%1$s %2$s",
+    "item.elytra_chestplate.elytra_golden_chestplate":"%1$s %2$s",
+    "item.elytra_chestplate.elytra_iron_chestplate":"%1$s %2$s",
+    "item.elytra_chestplate.elytra_leather_chestplate":"%1$s %2$s",
+    "item.elytra_chestplate.elytra_netherite_chestplate":"%1$s %2$s"
+}

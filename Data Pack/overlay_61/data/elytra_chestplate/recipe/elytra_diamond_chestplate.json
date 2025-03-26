@@ -9,7 +9,7 @@
             "equippable":{"slot": "chest","asset_id": "elytra_chestplate:elytra_diamond_chestplate"},
             "item_model":"elytra_chestplate:elytra_diamond_chestplate",
             "rarity": "epic",
-            "item_name": [{"translate":"item.elytra_chestplate.elytra_diamond_chestplate","fallback":"%1$s %2$s","with":[{"translate":"item.minecraft.elytra"},{"translate":"item.minecraft.diamond_chestplate"}]}]
+            "item_name": "[{\"translate\":\"item.elytra_chestplate.elytra_diamond_chestplate\",\"fallback\":\"%1$s %2$s\",\"with\":[{\"translate\":\"item.minecraft.elytra\"},{\"translate\":\"item.minecraft.diamond_chestplate\"}]}]"
         }
     }
 }

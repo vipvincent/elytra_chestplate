@@ -1,0 +1,11 @@
+{
+    "elytra_chestplate.resourcepack.check":"§2[✔ Client Resource Pack/Mod Loaded | Version: v2.3]",
+    "elytra_chestplate.resourcepack.download":"↓ Download Resource Pack",
+    "elytra_chestplate.name":"Elytra Chestplate",
+    "item.elytra_chestplate.elytra_chainmail_chestplate":"%1$s %2$s",
+    "item.elytra_chestplate.elytra_diamond_chestplate":"%1$s %2$s",
+    "item.elytra_chestplate.elytra_golden_chestplate":"%1$s %2$s",
+    "item.elytra_chestplate.elytra_iron_chestplate":"%1$s %2$s",
+    "item.elytra_chestplate.elytra_leather_chestplate":"%1$s %2$s",
+    "item.elytra_chestplate.elytra_netherite_chestplate":"%1$s %2$s"
+}
