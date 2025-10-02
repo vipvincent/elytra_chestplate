@@ -1,0 +1,15 @@
+{
+    "type": "smithing_transform",
+    "base": "copper_chestplate",
+    "addition": "elytra",
+    "result": {
+        "id": "copper_chestplate",
+        "components": {
+            "glider": {},
+            "equippable":{"slot": "chest","asset_id": "elytra_chestplate:elytra_copper_chestplate"},
+            "item_model":"elytra_chestplate:elytra_copper_chestplate",
+            "rarity": "epic",
+            "item_name": [{"translate":"item.elytra_chestplate.elytra_copper_chestplate","fallback":"%1$s %2$s","with":[{"translate":"item.minecraft.elytra"},{"translate":"item.minecraft.copper_chestplate"}]}]
+        }
+    }
+}

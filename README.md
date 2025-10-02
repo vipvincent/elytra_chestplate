@@ -1,3 +1,6 @@
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/Luk2wi3b?style=flat&logo=modrinth&label=Modrinth)
+![CurseForge Downloads](https://img.shields.io/curseforge/dt/1172843?style=flat&logo=curseforge&label=CurseForge)
+
 [Modrinth](https://modrinth.com/datapack/elytra_chestplate) | 
 [CurseForge](https://www.curseforge.com/minecraft/data-packs/elytra-chestplate) | 
 [GitHub](https://github.com/vipvincent/elytra_chestplate) | 

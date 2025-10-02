@@ -5,11 +5,6 @@
         "texture": "minecraft:netherite"
       }
     ],
-    "humanoid_leggings": [
-      {
-        "texture": "minecraft:netherite"
-      }
-    ],
     "wings": [
       {
         "texture": "minecraft:elytra",

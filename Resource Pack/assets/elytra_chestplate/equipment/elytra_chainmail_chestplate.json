@@ -5,11 +5,6 @@
         "texture": "minecraft:chainmail"
       }
     ],
-    "humanoid_leggings": [
-      {
-        "texture": "minecraft:chainmail"
-      }
-    ],
     "wings": [
       {
         "texture": "minecraft:elytra",
