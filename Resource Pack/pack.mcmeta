@@ -1,9 +1,9 @@
 {
     "pack": {
-        "description": [{"translate": "elytra_chestplate.name","fallback": "Elytra Chestplate 鞘翅胸甲","color": "yellow"}," §r§6v2.6§r\n§bMade By vipvincent"],
+        "description": [{"translate": "elytra_chestplate.name","fallback": "Elytra Chestplate 鞘翅胸甲","color": "yellow"}," §r§6v2.6.1§r\n§bMade By vipvincent"],
         "min_format": 42,
         "max_format": 999,
-        "pack_format": 69,
+        "pack_format": 75,
         "supported_formats": {"min_inclusive": 42,"max_inclusive": 999}
     },
     "overlays": {
